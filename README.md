@@ -1,2 +1,2 @@
 # listas
-Listas ordenadas e não ordenadas
+Aprendendo sobre listas ordenadas e não ordenadas
